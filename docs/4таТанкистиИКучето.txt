@@ -37,3 +37,5 @@ po wiosenny bez!
 Text committed to git repo
 
 Second modification
+
+Now added new line, 140107
