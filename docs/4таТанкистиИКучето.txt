@@ -39,3 +39,5 @@ Text committed to git repo
 Second modification
 
 Now added new line, 140107
+
+Another new line added, 140107, second commit and push
