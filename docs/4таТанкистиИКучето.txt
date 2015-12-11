@@ -34,3 +34,6 @@ powrocimy wierni,
 po wiosenny bez!
 
 Text committed to git repo
+
+on 151211
+Text changed on anothet computer
