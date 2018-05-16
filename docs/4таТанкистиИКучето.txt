@@ -37,3 +37,6 @@ Text committed to git repo
 
 on 151211
 Text changed on anothet computer
+
+on 180516
+This new text added
